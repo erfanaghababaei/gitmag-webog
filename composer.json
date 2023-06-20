@@ -1,0 +1,17 @@
+{
+    "name": "oop/pro",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "./helper.php"
+        ]
+    },
+    "authors": [{
+        "name": "efi"
+    }],
+    "require": {}
+}
